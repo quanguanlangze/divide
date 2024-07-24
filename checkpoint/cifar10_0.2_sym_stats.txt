@@ -1,0 +1,8 @@
+Numer of labeled samples:34695   AUC:0.982
+Numer of labeled samples:34485   AUC:0.982
+Numer of labeled samples:35266   AUC:0.982
+Numer of labeled samples:35160   AUC:0.982
+Numer of labeled samples:35444   AUC:0.978
+Numer of labeled samples:35538   AUC:0.978
+Numer of labeled samples:35614   AUC:0.977
+Numer of labeled samples:36343   AUC:0.977
